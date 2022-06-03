@@ -1,0 +1,39 @@
+.time{
+    display: flex;
+    flex-direction: row;
+}
+.div1{
+    margin: 10px;
+    width: 15%;
+    height: 50px;
+    background-color: #efefef;
+    border: 2px solid black;
+}
+.div2{
+    font-size: 35px;
+    margin: 10px;
+    width: 11%;
+    height: 50px;
+    border: 2px solid black;
+}
+.div3{
+    font-size: 35px;
+    margin: 10px;
+    width: 11%;
+    height: 50px;
+    border: 2px solid black;
+}
+.div4{
+    font-size: 35px;
+    margin: 10px;
+    width: 11%;
+    height: 50px;
+    border: 2px solid black;
+}
+.div5{
+    margin: 10px;
+    width: 15%;
+    height: 50px;
+    background-color: #efefef;
+    border: 2px solid black;
+}
